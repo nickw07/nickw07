@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ⚡ | I randomly post stuff I'm working on 😎
+
 🌱 | I'm currently learning the Flet framework for Python
 
 
