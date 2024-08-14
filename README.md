@@ -1,4 +1,7 @@
 ## Hi there 👋
+# I randomly post stuff I'm working on 😎
+
+🌱 | I'm currently learning the Flet framework for Python
 
 <!--
 **nickw07/nickw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
