@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 | Hi there
+- 🚀 17 y.
+- 🛠️ Currently working on: `Password Manager (Tkinter)` &  `Aim Trainer (Pygame)`
+- 🐍 Primarily using Python
+
+---
+
+## 📁 | Projects
+- ...
+
+---
 
 <!--
 **nickw07/nickw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
