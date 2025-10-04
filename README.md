@@ -21,8 +21,8 @@
 
 ---
 
-## 📁 | Projects
-- ['Fall Down' (Python & Pygame)](https://github.com/nickw07/falldown-pygame.git) - This is my first ever game, developed in one week using Python and Pygame
-- [Windows Desktop Tool (Python & Tkinter)](https://github.com/nickw07/windows-desktoptool-tkinter.git) - OS managment tool made with Python and Tkinter
-- [Console Games Collection](https://github.com/nickw07/console-games-python.git) - This is a simple Python console application featuring three classic games
-- [Game Review (HTML & CSS)](https://github.com/nickw07/game-review-html-css.git) - Simple website featuring a game review
+## 📁 | Latest Projects
+- 👾 ['Fall Down' (Python & Pygame)](https://github.com/nickw07/falldown-pygame.git) - This is my first ever game, developed in one week using Python and Pygame
+- 💻 [Windows Desktop Tool (Python & Tkinter)](https://github.com/nickw07/windows-desktoptool-tkinter.git) - OS managment tool made with Python and Tkinter
+- 🕹️ [Console Games Collection](https://github.com/nickw07/console-games-python.git) - This is a simple Python console application featuring three classic games
+- 📖 [Game Review (HTML & CSS)](https://github.com/nickw07/game-review-html-css.git) - Simple website featuring a game review
