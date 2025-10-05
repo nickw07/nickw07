@@ -1,7 +1,7 @@
 ## 👋 | Hi there
 - 🚀 17 y.
-- 🛠️ Currently working on: `Password Manager (Tkinter)` &  `Aim Trainer (Pygame)`
 - 🐍 Primarily using Python
+- 🛠️ Currently working on: `Password Manager (Tkinter)` &  `Aim Trainer (Pygame)`
 - 🌐 Discord: @nick.07
 - ⌨️ Typing stats: https://monkeytype.com/profile/n1ck07
 
