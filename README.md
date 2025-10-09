@@ -11,7 +11,7 @@
 - 💻 I share projects here that I build while exploring new concepts and tools
 - 🐍 I'm primarily using Python
 - 🛠️ Currently, I'm working on `Password Manager (Tkinter)` &  `Aim Trainer (Pygame)`
-- 🌐 Discord: @nick.07
+- 🌐 Discord: @n1ck_tw
 - ⌨️ Typing stats: https://monkeytype.com/profile/n1ck07
 
 ---
