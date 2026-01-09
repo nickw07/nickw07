@@ -2,7 +2,7 @@
 
 ![user-banner](banner.png)
 
----
+<br>
 
 ## 👤 | About me
 
@@ -12,7 +12,7 @@
 - 🌐 Discord: @n1ck_tw
 - ⌨️ Typing stats: https://monkeytype.com/profile/n1ck07
 
----
+<br>
 
 ## 🛠️ | Working with ...
 ![Static Badge](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +22,6 @@
 ![Static Badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
----
+<br>
 
 <h3>Check out my latest projects! ⤵️ </h3>
